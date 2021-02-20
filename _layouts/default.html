@@ -2,12 +2,12 @@
 <!doctype>
 <html lang="en">
   <head>
-    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta content='{{ page.title }} | {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} | {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} | {{ site.title }}</title>
     {% include head.html %}
   </head>
-  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+  <body class="lh-copy dark-gray pa0 f6 monospace bg-super-white" style="font-family:monospace">
     <header class="tc mt4">
       <a href="{{ site.url }}">
         <img src="{{ site.url }}/images/scribble.png" alt="Home" width="53" height="59">
@@ -25,7 +25,7 @@
         {% endfor %}
       </nav>
 
-      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
+      <main class="tl f6 relative pa4 pa5-ns overflow-auto">
         {% if page.title %}
           <div class="mb4">
             {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
