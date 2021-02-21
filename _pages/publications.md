@@ -7,6 +7,8 @@ permalink: /publications
 
 - MONTEIRO, H. A. S. Uma nova aborgadem para análise estática em duas escalas: métodos dos elementos finitos generalizados/estendidos, estratégia global-local e modelos de degração elástica no estudo de meios não lineares, parcialmente frágeis e heterogêneos.  Tese (Doutorado em Engenharia de Estruturas) -- Escola de Engenharia, Universidade Federal de Minas Gerais, p. 423. 2021.
 
+    _(en title: A new approach for two-scale static analysis: generalized/extended finite element method, global-local strategy and elastic-degrading models in the study of heterogeneous quasi-brittle nonlinear media)_
+
 ## Articles
 
 -  MONTEIRO, H. A. S.; NOVELLI, L.; FONSECA, G. M.; PITANGUEIRA, R. L. S.; BARROS, F. B. A new approach for physically nonlinear analysis of continuum damage mechanics problems using the generalized/extended finite element method with global-local enrichment. Engineering Analysis with Boundary Elements. v. 113. p. 277--295. Abril 2020.
