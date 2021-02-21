@@ -3,7 +3,7 @@ title: About me
 permalink: /about
 ---
 
-![](/images/perfil.png){:height="128px" width="128px" style="float: left; margin-right: 1em;"} I hold a bachelor’s degree in civil engineering and a Ph.D. in structural engineering, but I rather say that I’m just an _engineer_, someone who uses _ingenuity_ to find answers and like to dive into all sorts of knowledge.
+![](/assets/images/perfil.png){:height="128px" width="128px" style="float: left; margin-right: 1em;"} I hold a bachelor’s degree in civil engineering and a Ph.D. in structural engineering, but I rather say that I’m just an _engineer_, someone who uses _ingenuity_ to find answers and like to dive into all sorts of knowledge.
 
 I have a background in numerical/computational simulation, programming, and applied mathematics and, currently, I’m dealing with math, numerical analysis, solid mechanics, nonlinearities, concrete-like materials, and computational methods in engineering. As an enthusiast of computer science, machine learning, and data science, I’m also developing new ML applications and data-driven modeling strategies in computational mechanics, structural engineering, and materials engineering.
 

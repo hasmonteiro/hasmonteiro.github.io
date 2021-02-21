@@ -52,8 +52,8 @@ Here I show quite basic extracts of my research. Find more info in my [publicati
 
 Emulation of particulate material morphology and stress analysis by (G/X)FEM.
 
-![](/images/heterog1.png){: width="45%"}
-![](/images/heterog2.png){: width="45%"}
+![](/assets/images/heterog1.png){: width="45%"}
+![](/assets/images/heterog2.png){: width="45%"}
 {:style="text-align: center;"}
 
 
@@ -61,18 +61,18 @@ Emulation of particulate material morphology and stress analysis by (G/X)FEM.
 
 Use of elastic-degrading constitutive models (based on continuum damage mechanics) and GFEM to model quasi-brittle material behavior
 
-![](/images/nonlinear1.png){: width="60%" }
+![](/assets/images/nonlinear1.png){: width="60%" }
 {:style="text-align: center;"}
-![](/images/nonlinear2.png){: width="50%" }
+![](/assets/images/nonlinear2.png){: width="50%" }
 {:style="text-align: center;"}
 
 - __Predictive modelling__
 
 Applying neural nets and linear models to predict elastic properties of concrete.
 
-![](/images/nn1.png){: width="40%" }
-![](/images/nn2.png){: width="45%" }
+![](/assets/images/nn1.png){: width="40%" }
+![](/assets/images/nn2.png){: width="45%" }
 {:style="text-align: center;"}
 
-![](/images/nn3.png){: width="50%" }
+![](/assets/images/nn3.png){: width="50%" }
 {:style="text-align: center;"}

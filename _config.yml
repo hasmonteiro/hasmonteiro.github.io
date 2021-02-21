@@ -27,7 +27,7 @@ defaults:
   - values:
       layout: "default"
 
-include: ['_pages']	  
+include: ['_pages', 'assets']	  
 
 exclude: [Gemfile, Gemfile.lock, README, LICENSE]
 

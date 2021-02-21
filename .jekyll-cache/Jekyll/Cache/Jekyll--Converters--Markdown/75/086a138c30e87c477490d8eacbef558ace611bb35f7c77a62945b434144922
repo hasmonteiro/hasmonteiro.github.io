@@ -1,4 +1,4 @@
-I"<h2 id="today-and-the-road-ahead">Today and the road ahead…</h2>
+I"<<h2 id="today-and-the-road-ahead">Today and the road ahead…</h2>
 
 <p>As I came from civil/structural engineering, my scientific production and my background are cast by numerical analysis and applied math/physics. Nevertheless, today I’m moving towards <strong>Machine Learning (ML), Data-Driven Modelling (DDM), Data Science (DS) &amp; Dev</strong>. I realized that computer science (CS) and DS are much more innovative, inventive, challenging, and fulfilling, a place where the novelty lies and where I can apply my ingenuity and analytical skills, hands-on. So I’ve been not only studying CS and DS but also – regarding my formal education – researching ways to bring DS, DDM, and ML into (civil) engineering, especially to the research of complex structures and materials.</p>
 
@@ -58,8 +58,8 @@
 
 <p>Emulation of particulate material morphology and stress analysis by (G/X)FEM.</p>
 
-<p style="text-align: center;"><img src="/images/heterog1.png" alt="" width="45%" />
-<img src="/images/heterog2.png" alt="" width="45%" /></p>
+<p style="text-align: center;"><img src="/assets/images/heterog1.png" alt="" width="45%" />
+<img src="/assets/images/heterog2.png" alt="" width="45%" /></p>
 
 <ul>
   <li><strong>Material nonlinear analysis</strong></li>
@@ -67,8 +67,8 @@
 
 <p>Use of elastic-degrading constitutive models (based on continuum damage mechanics) and GFEM to model quasi-brittle material behavior</p>
 
-<p style="text-align: center;"><img src="/images/nonlinear1.png" alt="" width="60%" /></p>
-<p style="text-align: center;"><img src="/images/nonlinear2.png" alt="" width="50%" /></p>
+<p style="text-align: center;"><img src="/assets/images/nonlinear1.png" alt="" width="60%" /></p>
+<p style="text-align: center;"><img src="/assets/images/nonlinear2.png" alt="" width="50%" /></p>
 
 <ul>
   <li><strong>Predictive modelling</strong></li>
@@ -76,8 +76,8 @@
 
 <p>Applying neural nets and linear models to predict elastic properties of concrete.</p>
 
-<p style="text-align: center;"><img src="/images/nn1.png" alt="" width="40%" />
-<img src="/images/nn2.png" alt="" width="45%" /></p>
+<p style="text-align: center;"><img src="/assets/images/nn1.png" alt="" width="40%" />
+<img src="/assets/images/nn2.png" alt="" width="45%" /></p>
 
-<p style="text-align: center;"><img src="/images/nn3.png" alt="" width="50%" /></p>
+<p style="text-align: center;"><img src="/assets/images/nn3.png" alt="" width="50%" /></p>
 :ET
