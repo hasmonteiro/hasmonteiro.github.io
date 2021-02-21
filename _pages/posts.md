@@ -3,6 +3,8 @@ title: Posts
 permalink: /posts
 ---
 
+Under construction
+
 <ul class="list pa0">
   {% for post in site.posts %}
   <li class="mv2">

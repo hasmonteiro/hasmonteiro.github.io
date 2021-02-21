@@ -1,6 +1,6 @@
 ---
-title: Education
-permalink: /education
+title: Teaching
+permalink: /teaching
 ---
 
 Under construction
