@@ -1,5 +1,6 @@
 ---
 title: Posts
+permalink: /posts
 ---
 
 <ul class="list pa0">

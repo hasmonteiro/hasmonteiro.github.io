@@ -1,11 +1,9 @@
-# ----------- CONFIGURABLE START -----------
 title: "Humberto Monteiro"
 description: "| enginneer, phd | fem | data | dev | ai |"
 #url: http://hasmonteiro.github.io # Site url, without a slash at the end.
 signoff: "hasmonteiro" # Your name
-facebook_appid: # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share: false # Turn on twitter and facebook share buttons
+
+# permalink: /:title/
 
 links:
   - name: /about_me
@@ -20,13 +18,17 @@ links:
     url: /education	
   - name: /posts
     url: /posts	
-  - name: /other
-    url: /other	
   - name: /cv
     url: /cv
-# ------------ CONFIGURABLE END ------------
+  - name: /contact
+    url: /contact	
 
-permalink: /:title/
 defaults:
   - values:
-      layout: "default"	  
+      layout: "default"
+
+include: ['_pages']	  
+
+# facebook_appid: # APP ID for like button, remove from /_includes/share.html if unwanted.
+# google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+# share: false # Turn on twitter and facebook share buttons
