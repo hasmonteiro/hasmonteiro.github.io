@@ -4,6 +4,27 @@
 .top-50 { top: 50% }
 .link:hover { background: url(/images/line.png) repeat-x left bottom; }
 
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 10px;
+  }
+
+  th {
+    background-color: #656869;
+    color: #f9f9f9;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #f8f8f8;
+  }
+
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;

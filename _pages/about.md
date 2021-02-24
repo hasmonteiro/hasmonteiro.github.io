@@ -8,7 +8,8 @@ permalink: /about
 I have a background in numerical/computational simulation, programming, and applied mathematics and, currently, I’m dealing with math, numerical analysis, solid mechanics, nonlinearities, concrete-like materials, and computational methods in engineering. As an enthusiast of computer science, machine learning, and data science, I’m also developing new ML applications and data-driven modeling strategies in computational mechanics, structural engineering, and materials engineering.
 
 I have experience in the research field (empirical/experimental and numerical testing), hydrological/environmental studies (rainfall, flow-rate, and temporal series), structural analysis (fem-like formulations, mechanics of materials, continuum mechanics, concrete), statistics/data analysis (databases, data munging, exploratory analysis, feature engineering, predictive research), and education as well.
-I enjoy solving problems and I’m also into arts, humanities, and linguistics – reading (mostly literature), drawing, (listening/playing) music, and study new languages are my main hobbies –.
+
+I enjoy solving problems and I’m also into arts, humanities, and linguistics – reading (especially literature), drawing, (listening/playing) music, and study new languages are my main hobbies –.
 
 Check out my [cv]({{site.url}}/cv) and my [research]({{site.url}}/research). 
 

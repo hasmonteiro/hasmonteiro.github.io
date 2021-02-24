@@ -1,0 +1,82 @@
+I"<h2 id="style">Style</h2>
+
+<p>My didactic-pedagogical style is oriented by <strong>active methodologies</strong>. We live in a dynamic, accelerated, and technological world, so innovation within the educational field is imperative. How to approach the modern classroom is something that concerns me, especially how to bring informatics and technology to the lecture room, and make everything more fluid. Among all the active strategies that exist, I enjoy and apply the following approaches to my teaching:</p>
+
+<ul>
+  <li>Project-based learning</li>
+  <li>Problem-based learning</li>
+  <li>Study cases</li>
+  <li>Flipped classroom</li>
+  <li>Hybrid study</li>
+</ul>
+
+<p>Nonetheless, the classical theoretical/expositive lecturing cannot be underestimated… sometimes some hard work is necessary.</p>
+
+<h2 id="experience">Experience</h2>
+
+<p>I have experience in teaching the fundamentals of the Finite Element Method to <em>lato sensu</em> post-graduate students. But I’m also able to lead all the standard (civil) engineering curriculum, from the basic math/physics to structural design and beyond. Also, I have a strong proficiency in programming and general software use, therefore I can mentoring in other fields.</p>
+
+<h3 id="snippet">Snippet</h3>
+
+<p>In the following, we have an example of a project-based exercise (MEF_TP) and a slide set with some theoretical notes (MEF_A01) that are representative of my teaching style. In this example, it is required two approaches to analyze the structure’s segment: (a) a formal manual calculation, in order to understand the <em>black-box</em> of a typical FEA software and (b) the modeling of the problem in commercial software to learn how to operate this type of tool and check the results.</p>
+
+<p><em>Disclaimer.: The contents are in Portuguese</em></p>
+
+<p style="text-align: center;"><a href="/assets/pdf/MEF_TP.pdf">MEF_TP</a></p>
+
+<p style="text-align: center;"><a href="/assets/pdf/MEF_A01.pdf">MEF_A01</a></p>
+
+<h2 id="mentoring-and-evaluation-boards">Mentoring and evaluation boards</h2>
+
+<p>From my Ph.D. project, an official funding application and some additional research came to life. I ended up helping master and undergraduate students in their investigations.</p>
+
+<p>Also, I took part in evaluation boards of master and undergrad. theses, as well as other committees.</p>
+
+<h4 id="master-final">Master (final)</h4>
+
+<ul>
+  <li>
+    <p>BARROS, F. B.; PITANGUEIRA, R. L. S.; LINS, R. M.; MONTEIRO, H. A. S. Participação em banca de Gabriela Marinho Fonseca. Propagação de trincas em meios elásticos lineares via método dos elementos finitos generalizados com estratégia global-local automatizada, 2019. (Engenharia de Estruturas) Universidade Federal de Minas Gerais.</p>
+  </li>
+  <li>
+    <p>PITANGUEIRA, R. L. S.; BARROS, F. B.; SILVA, R. P.; ARNDT, M.; MONTEIRO, H. A. S. Participação em banca de Larissa Novelli. Uma nova metodologia para solução de modelos não lineares utilizando estratégia global-local, 2019. (Engenharia de Estruturas) Universidade Federal de Minas Gerais.</p>
+  </li>
+</ul>
+
+<h3 id="undergrad-final">Undergrad. (final)</h3>
+
+<ul>
+  <li>PENNA, S. S.; SILVA, L. L.; MONTEIRO, H. A. S. Participação em banca de Jonatas Junio Messias Pires. Determinação da capacidade de carga de vigas de concreto armado na flexão simples, 2018. (Engenharia Civil) Universidade Federal de Minas Gerais.</li>
+</ul>
+
+<h3 id="master-qualifying">Master (qualifying)</h3>
+
+<ul>
+  <li>
+    <p>BARROS, F. B.; PITANGUEIRA, R. L. S.; PENNA, S. S.; MONTEIRO, H. A. S. Participação em banca de Gabriela Marinho Fonseca. Contribuição para a análise estrutural global-local via método dos elementos finitos generalizados, 2018. (Engenharia de Estruturas) Universidade Federal de Minas Gerais.</p>
+  </li>
+  <li>
+    <p>PITANGUEIRA, R. L. S.; PENNA, S. S.; SILVA, R. P.; MONTEIRO, H. A. S. Participação em banca de Marcella Passos Andrade. Modelos para a descrição da heterogeneidade de meios parcialmente frágeis, 2018. (Engenharia de Estruturas) Universidade Federal de Minas Gerais</p>
+  </li>
+  <li>
+    <p>PITANGUEIRA, R. L. S.; BARROS, F. B.; SILVA, R. P.; MONTEIRO, H. A. S. Participação em banca de Larissa Novelli. Processos incrementais-iterativos para solução de modelos não lineares utilizando estratégias global-local, 2018. (Engenharia de Estruturas) Universidade Federal de Minas Gerais.</p>
+  </li>
+</ul>
+
+<h3 id="other-judgement-committees">Other judgement committees</h3>
+
+<ul>
+  <li>
+    <p>XXVIII Semana de Iniciação Científica, 2019. Universidade Federal de Minas Gerais <em>(examiner of undergraduate researchers of the School of Engineering of UFMG)</em></p>
+  </li>
+  <li>
+    <p>Empreendedorismo e inovação em saúde: banca multidisciplinar para avaliação de trabalho final da disciplina, 2018. Faculdade de Ciências Médicas de Minas Gerais <em>(examiner of final works in a multidisciplinary subject of the Medical Sciences Faculty of Minas Gerais)</em></p>
+  </li>
+  <li>
+    <p>XXVI Semana de Iniciação Científica, 2017. Universidade Federal de Minas Gerais <em>(examiner of undergraduate researchers of the School of Engineering of UFMG)</em></p>
+  </li>
+  <li>
+    <p>XXV Semana de Iniciação Científica, 2016. Universidade Federal de Minas Gerais <em>(examiner of undergraduate researchers of the School of Engineering of UFMG)</em></p>
+  </li>
+</ul>
+:ET

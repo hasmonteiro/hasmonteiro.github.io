@@ -12,6 +12,7 @@ Hence my two main research subjects today are:
 - Machine Learning + Data-Driven Modelling
 - (Generalized/Extended) Finite Element Method
 
+______________________________________________________________________________________
 ## My official and historical info
 
 According to the [Lattes Board of Research Groups in Brazil](http://dgp.cnpq.br/dgp/espelhorh/0047146290) (Diretório Lattes dos Grupos de Pesquisa no Brasil, in Portuguese), I have been enrolled with the following research:
@@ -43,7 +44,7 @@ Universidade Federal de Minas Gerais _(Federal University of Minas Gerais)_ -- B
 
 - [INSANE](https://www.insane.dees.ufmg.br/en/home/) (Interactive Structural Analysis Environment) lab _(... check out this amazing crew!)_
 
-
+______________________________________________________________________________________
 ## Snippets 
 
 Here I show quite basic extracts of my research. Find more info in my [publications]({{site.url}}/publications) if you'd like.
