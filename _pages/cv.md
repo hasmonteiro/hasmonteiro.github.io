@@ -12,9 +12,12 @@ I perform my activities with commitment and enthusiasm, being always determined 
 
 Currently, I am working with computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, the behavior of concrete and quasi-brittle materials, constitutive modeling and numerical-computational methods in engineering. 
 
-I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication and a command of writing with significant technical rigor. I am also an enthusiast and a researcher of machine learning and data science!
+I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work. I am also an enthusiast and a researcher of machine learning and data science! Always learning new things and looking for self-development. Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
 
-Looking for opportunities to apply my analytical and technical skills in challenging and innovative experiences in the areas of __technology__, __data science__ and __engineering__. 
+_``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´,_
+{: style="text-align: center;"}
+
+so we're are here in this planet to grow and improve, to go beyond boundaries!
 
 ### Some skills
 
@@ -26,13 +29,19 @@ Looking for opportunities to apply my analytical and technical skills in challen
 | Intermediate | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape`|
 | Basic | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Scrum` `Business`|
 
-
-
 #### SOFT SKILLS
 {: style="text-align: center;"}
 
 |:-----:|
 | `Problem Solving`  `Analytical Thinking` `Resilience` `Responsability` `Critical Thinking` `Attention to Detail`  |
+
+______________________________________________________________________________________
+## Objectives
+
+Looking for opportunities to apply my analytical and technical skills in challenging and innovative experiences in the areas of __technology__, __data science__ and __engineering__. 
+
+
+
 
 ______________________________________________________________________________________
 ## Education
@@ -114,18 +123,81 @@ Thainá Aparecida Gandra da Silva Campos. Sem Título (No Title). 2019. Structur
 ______________________________________________________________________________________
 ## Complementary education
 
+_The names will not be translated_
 
+- Algoritmos e Modelos de Programação para Big Data &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
 
-______________________________________________________________________________________
-## Additional remarks
+- Introdução à Simulação de Reservatórios Petrolíferos &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
 
-I have good programming skills, a command of writing with a strict technical standard, and a resilient approach to work. I'm always learning new things and looking for self-development. Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
+- Análise de Dados &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
 
-_``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´,_
-{: style="text-align: center;"}
+- Deep Learning &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
 
-so we're are here in this planet to grow and improve, to go beyond boundaries!
+- Integrando Redes Neurais, Modelos Físicos e Rendering para Animação de Fluidos &#183;Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
 
+- Introdução ao Git &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
+
+- Introdução ao cMake &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
+
+- Introdução aos Espaços de Hilbert &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
+
+- Linux: a introdução ao sistema operacional &#183; Digital Innovation One (DIO) &#183; 02/2021
+
+- Shell Script -- Manipulando Arquivos &#183;Digital Innovation One (DIO) &#183; 02/2021
+
+- Difusões Estocásticas com Comutação: Aplicações. Métodos Numéricos e Controle Ótimo &#183;Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
+
+- Big Data Analytics com R e Microsoft Azure Machine Learning &#183; Data Science Academy (DSA) &#183; 01/2021
+
+- Fundamentos da Teoria de Aprendizado de Máquina &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução E/S Paralela no SDUMONT &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução Programação MPI &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução a Programação MPI com Extensões para E/S (MPI-IO) &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução ao SYCL &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução a Workflows Científicos Paralelos em Python/Parsl &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução ao Adaptative MPI (AMPI) &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução ao ambiente SDUMONT/SLURM e Ferramentas de Avaliação de Desempenho BULLX-DE &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução à Deep Learning &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução à Programação Paralela e Vetorial &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução à Configuração e Gerenciamento de Clusters &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução à Utilização de Containers para Deep Learning &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução à Programação CUDA &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Introdução à Programação com OpenMP &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Metodologias Ativas &#183; Fundação Getúlio Vargas &#183; 01/2021
+
+- OpenMP Programação Avançada &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Otimização de Código com Parallel Studio: Um Estudo de Caso &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Programação Avançada CUDA &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Programação Avançada SYCL &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Programação Paralela e Vetorial Avançada &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- R para HPC &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 01/2021
+
+- Big Data Fundamentos 2.0 &#183; Data Science Academy (DSA) &#183; 10/2018
+
+- Introdução à Cieência de Dados &#183; Data Science Academy (DSA) &#183; 10/2018
+
+- Java Básico + Avançado + Java Web (JSF) &#183; Treinar Minas &#183; 03/2015
+
+- Revit &#183; Desenhar Computação Gráfica &#183; 12/2010
 
 
 <!-- 
