@@ -3,7 +3,7 @@
 permalink: /contact
 ---
 
-### get in touch
+__get in touch__
 {: style="text-align: center;"}	
 
 [[mail_&#9993;]](https://mailhide.io/e/LkioQXpQ)
