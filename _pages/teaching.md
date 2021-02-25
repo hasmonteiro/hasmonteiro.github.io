@@ -31,6 +31,7 @@ _Disclaimer.: The contents are in Portuguese_
 [MEF_A01]({{site.url}}/assets/pdf/MEF_A01.pdf)
 {: style="text-align: center;"}
 
+______________________________________________________________________________________
 ## Mentoring and evaluation boards
 
 From my Ph.D. project, an official funding application and some additional research came to life. I ended up helping master and undergraduate students in their investigations.
