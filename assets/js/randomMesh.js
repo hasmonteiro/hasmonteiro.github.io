@@ -92,7 +92,7 @@ function setup() {
         particles.push(new Particle());
     }
     window.requestAnimationFrame(loop);
-    document.write("<center>engineer (<sub>.</sub>en.d&#658;&#618;'n&#618;&#601;<sup>r</sup>), <i>verb [T]</i>: to plan, design, or build according to scientific principles; to contrive or plan out usually with more or less subtle skill and craft.</center>")
+    // document.write("<center>engineer (<sub>.</sub>en.d&#658;&#618;'n&#618;&#601;<sup>r</sup>), <i>verb [T]</i>: to plan, design, or build according to scientific principles; to contrive or plan out usually with more or less subtle skill and craft.</center>")
 }
 
 function loop() {
