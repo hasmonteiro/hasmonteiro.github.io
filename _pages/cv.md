@@ -26,23 +26,18 @@ ________________________________________________________________________________
 
 - __Professor__. _Centro Universitário Newton Paiva (University Center Newton Paiva), BR_. 2019 - 2020: Lecturer in the lato sensu postgraduate certicate/diploma track “Structural Engineering for Construction” (Pós-Graduação em Engenharia de Estruturas para a Construção Civil). Units: Numerical Methods in Engineering - Introduction to the Finite Element Method and Thesis (Supervisor)
 
-
 - __Research assistant__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2010 - 2012: Volunteer and scholarship holder. Experimental investigation of fatigue fracture in structural steel alloys. Development of a new experimental methodology to track the nucleation and propagation of cracks in steel plates by measuring indirect parameters, such as flexural moments. Participant of some activites of the 
-
-
 
 - __Civil Engineer and Engineering Intern__. _Tractebel Engineering - Leme Engenharia, BR_: Implementation of environmental programs (hydrological, hydrosedimentological and climatological monitoring) of hydroelectric projects. Technical follow-up, rainfall studies, flow-rate curve analysis, time-series assessments, data-base management, data wrangling, primary data analysis, among others.
 
-
 - __Enginnering Intern__. _Unitech Engenheiros e Consultores Ltda (Unitech Engineers and Consultants), BR_. 2013 - 2013: Design of steel structures with industrial application. Detailing and review of projects.
-
 
 - __Project/Research Intern__. _Fundação de Desenvolvimento da Pesquisa - FUNDEP (Reseach Development Agency), BR_ 2012 - 2013:	Consulting, research and extension projects developed by DEMC - Departamento de Materiais de Construção UFMG (Department of Materials and Construction). Project management, quality control, technological control of concrete, supervision of public construction works, operational and administrative coordination of interns and technicians, among others.
 
 ______________________________________________________________________________________
 ## Honors
 
-- [2016]	Direct ascension to the Doctoral degree due to academic merit (1st in the department to go from bachelor to the doctoral level without a Master).
+- [2016]	Direct ascension to the Doctoral degree due to academic merit.
 
 - [2012]	Academic Relevance Award of the School of Engineering (Among the best works in the conference).
 
