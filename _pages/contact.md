@@ -18,11 +18,3 @@ permalink: /contact
 
 [cnpq_lattes](http://lattes.cnpq.br/3928759533862927)
 {: style="text-align: center;"}
-
-[deezer](https://www.deezer.com/br/profile/781035327)
-{: style="text-align: center;"}
-
-[spotify](https://open.spotify.com/user/hasmonteiro)
-{: style="text-align: center;"}
-
-
