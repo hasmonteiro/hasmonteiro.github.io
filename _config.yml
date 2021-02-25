@@ -7,9 +7,9 @@ signoff: "hasmonteiro" # Your name
 
 links:
   - name: /about_me
-    url: /about/
+    url: /about
   - name: /research
-    url: /research/
+    url: /research
   - name: /publications
     url: /publications
   - name: /projects
