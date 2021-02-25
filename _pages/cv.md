@@ -8,9 +8,31 @@ My full cv is registerd below. To download the __.pdf__ document click [[pt-br]]
 ______________________________________________________________________________________
 ## Profile
 
-I perform my activities with commitment and enthusiasm, being always determined and proactive in carrying out the work. With creativity, initiative, and balance, I try to develop daily tasks and increase the institution's multidisciplinary team. I have good communication and writing skills with significant technical rigor. 
+I perform my activities with commitment and enthusiasm, being always determined and proactive in carrying out the work. With creativity, initiative, and balance, I try to develop my daily tasks and increase the institution's multidisciplinary team. 
 
-Currently, I am working with structural engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, the behavior of concrete and quasi-brittle materials, constitutive modeling and numerical-computational methods in engineering. I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, as well as default experimental analysis. I am also an enthusiast of machine learning and data science!
+Currently, I am working with computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, the behavior of concrete and quasi-brittle materials, constitutive modeling and numerical-computational methods in engineering. 
+
+I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication and a command of writing with significant technical rigor. I am also an enthusiast and a researcher of machine learning and data science!
+
+Looking for opportunities to apply my analytical and technical skills in challenging and innovative experiences in the areas of __technology__, __data science__ and __engineering__. 
+
+### Some skills
+
+#### HARD SKILLS
+{: style="text-align: center;"}
+
+|:-----:|:-----:|
+| Advanced | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` |
+| Intermediate | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape`|
+| Basic | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Scrum` `Business`|
+
+
+
+#### SOFT SKILLS
+{: style="text-align: center;"}
+
+|:-----:|
+| `Problem Solving`  `Analytical Thinking` `Resilience` `Responsability` `Critical Thinking` `Attention to Detail`  |
 
 ______________________________________________________________________________________
 ## Education
@@ -90,6 +112,11 @@ Aline Maia Januário de Lima. Patologias em Estruturas de Concreto Armado: Pilar
 Thainá Aparecida Gandra da Silva Campos. Sem Título (No Title). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro. -->
 
 ______________________________________________________________________________________
+## Complementary education
+
+
+
+______________________________________________________________________________________
 ## Additional remarks
 
 I have good programming skills, a command of writing with a strict technical standard, and a resilient approach to work. I'm always learning new things and looking for self-development. Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
@@ -99,16 +126,16 @@ _``... the superior work of the human being is that of reason, which could be su
 
 so we're are here in this planet to grow and improve, to go beyond boundaries!
 
-### Some skills
-{: style="text-align: center;"}
 
+
+<!-- 
 | Technical | level | Personal | level |
 | --- |:---| --- |:---| 
 | `Java` | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;  | Technical writing | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;| 
 | `R` | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723;  |  Analytical thinking | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723; | 
 | `Matlab` | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723; | Resilience | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723; | 
 | `Linux` |&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723; | Proactivity | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723; | 
-| `Python` | &#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723;&#9723; |  Teamwork | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723; | 
+| `Python` | &#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723;&#9723; |  Teamwork | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723; |  -->
 
 <!-- | `HTML` | &#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723;&#9723;&#9723;  | 
 | `CSS` | &#9724;&#9724;&#9724;&#9723;&#9723;&#9723;&#9723;&#9723;&#9723;&#9723; |Creativity | &#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9724;&#9723;&#9723;&#9723; |   

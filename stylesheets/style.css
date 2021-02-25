@@ -12,8 +12,9 @@ table {
   }
   
   th, td {
-    text-align: left;
-    padding: 10px;
+    text-align: center;
+    padding: 14px;
+    line-height: 30px;
   }
 
   th {
