@@ -5,7 +5,7 @@ permalink: /research
 
 ## Today and the road ahead...
 
-As I came from civil/structural engineering, my scientific production and my background are cast by numerical analysis and applied math/physics. Nevertheless, today I’m moving towards __Machine Learning (ML), Data-Driven Modelling (DDM), Data Science (DS) & Dev__. I realized that computer science (CS) and DS are much more innovative, inventive, challenging, and fulfilling, a place where the novelty lies and where I can apply my ingenuity and analytical skills, hands-on. So I’ve been not only studying CS and DS but also – regarding my formal education – researching ways to bring DS, DDM, and ML into (civil) engineering, especially to the research of complex structures and materials.
+As I came from civil/structural engineering, my scientific production and my background are pervaded by numerical analysis and applied math/physics. Nevertheless, today I’m moving towards __Machine Learning (ML), Data-Driven Modelling (DDM), Data Science (DS) & Dev__. I realized that computer science (CS) and DS are much more innovative, inventive, challenging, and fulfilling, a place where the novelty lies and where I can apply my ingenuity and analytical skills, hands-on. So I’ve been not only studying CS and DS but also – regarding my formal education – researching ways to bring DS, DDM, and ML into (civil) engineering, especially to the research of complex structures and materials.
 
 Hence my two main research subjects today are:
 
@@ -42,7 +42,7 @@ Universidade Federal de Minas Gerais _(Federal University of Minas Gerais)_ -- B
 
 ### Lab/Software Projects
 
-- [INSANE](https://www.insane.dees.ufmg.br/en/home/) (Interactive Structural Analysis Environment) lab _(... check out this amazing crew!)_
+- [INSANE](https://www.insane.dees.ufmg.br/en/home/) (Interactive Structural Analysis Environment) lab _(...check out this crew!)_
 
 ______________________________________________________________________________________
 ## Snippets 
