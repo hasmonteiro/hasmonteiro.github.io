@@ -190,7 +190,7 @@ _The names will not be translated_
 
 - Big Data Fundamentos 2.0 &#183; Data Science Academy (DSA) &#183; 10/2018
 
-- Introdução à Cieência de Dados &#183; Data Science Academy (DSA) &#183; 10/2018
+- Introdução à Ciência de Dados &#183; Data Science Academy (DSA) &#183; 10/2018
 
 - Java Básico + Avançado + Java Web (JSF) &#183; Treinar Minas &#183; 03/2015
 
