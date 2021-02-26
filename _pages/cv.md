@@ -3,7 +3,7 @@ title: CV
 permalink: /cv
 ---
 
-My full cv is registerd below. To download the __.pdf__ document click [[pt-br]]({{site.url}}/assets/pdf/CURRICULUM_HUMBERTO_MONTEIRO.pdf) or [[en]](({{site.url}}/assets/pdf/CURRICULUM_HUMBERTO_MONTEIRO_en).pdf)
+My full cv is registerd below. To download the __.pdf__ document click [[pt-br]]({{site.url}}/assets/pdf/CURRICULUM_HUMBERTO_MONTEIRO.pdf) or [[en]]({{site.url}}/assets/pdf/CURRICULUM_HUMBERTO_MONTEIRO_en.pdf)
 
 ______________________________________________________________________________________
 ## Profile
