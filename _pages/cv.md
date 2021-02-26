@@ -40,15 +40,12 @@ ________________________________________________________________________________
 
 Looking for opportunities to apply my analytical and technical skills in challenging and innovative experiences in the areas of __technology__, __data science__ and __engineering__. 
 
-
-
-
 ______________________________________________________________________________________
 ## Education
 
-- [2016 - 2021] PhD in Structural Engineering. Federal University of Minas Gerais, UFMG, Belo Horizonte, Brazil.
+- [2021] PhD in Structural Engineering. Federal University of Minas Gerais, UFMG, Belo Horizonte, Brazil.
 
-- [2009 - 2013]	Bachelor in Civil Engineering. Federal University of Minas Gerais, UFMG, Belo Horizonte, Brazil.
+- [2014] Bachelor in Civil Engineering. Federal University of Minas Gerais, UFMG, Belo Horizonte, Brazil.
 
 ______________________________________________________________________________________
 ## Work Experience
@@ -57,13 +54,13 @@ ________________________________________________________________________________
 
 - __Professor__. _Centro Universitário Newton Paiva (University Center Newton Paiva), BR_. 2019 - 2020: Lecturer in the lato sensu postgraduate certicate/diploma track “Structural Engineering for Construction” (Pós-Graduação em Engenharia de Estruturas para a Construção Civil). Units: Numerical Methods in Engineering - Introduction to the Finite Element Method and Thesis (Supervisor)
 
-- __Research assistant__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2010 - 2012: Volunteer and scholarship holder. Experimental investigation of fatigue fracture in structural steel alloys. Development of a new experimental methodology to track the nucleation and propagation of cracks in steel plates by measuring indirect parameters, such as flexural moments. Participant of some activites of the 
-
 - __Civil Engineer and Engineering Intern__. _Tractebel Engineering - Leme Engenharia, BR_: Implementation of environmental programs (hydrological, hydrosedimentological and climatological monitoring) of hydroelectric projects. Technical follow-up, rainfall studies, flow-rate curve analysis, time-series assessments, data-base management, data wrangling, primary data analysis, among others.
 
 - __Enginnering Intern__. _Unitech Engenheiros e Consultores Ltda (Unitech Engineers and Consultants), BR_. 2013 - 2013: Design of steel structures with industrial application. Detailing and review of projects.
 
 - __Project/Research Intern__. _Fundação de Desenvolvimento da Pesquisa - FUNDEP (Reseach Development Agency), BR_ 2012 - 2013:	Consulting, research and extension projects developed by DEMC - Departamento de Materiais de Construção UFMG (Department of Materials and Construction). Project management, quality control, technological control of concrete, supervision of public construction works, operational and administrative coordination of interns and technicians, among others.
+
+- __Research assistant__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2010 - 2012: Volunteer and scholarship holder. Experimental investigation of fatigue fracture in structural steel alloys. Development of a new experimental methodology to track the nucleation and propagation of cracks in steel plates by measuring indirect parameters, such as flexural moments. Participant of some activites of the Energy and Hydraulic Efficiency in Sanitation Lab. -LENHS - UFMG.
 
 ______________________________________________________________________________________
 ## Honors
