@@ -25,9 +25,9 @@ so we're are here in this planet to grow and improve, to go beyond boundaries!
 {: style="text-align: center;"}
 
 |:-----:|:-----:|
-| Advanced | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` |
-| Intermediate | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape`|
-| Basic | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Scrum` `Business`|
+| &#9733;&#9733;&#9733; __Advanced__ | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` |
+| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape`|
+| &#9733; <br> __Basic__ | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Scrum` `Business`|
 
 #### SOFT SKILLS
 {: style="text-align: center;"}

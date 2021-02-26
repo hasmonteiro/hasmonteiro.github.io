@@ -1,7 +1,7 @@
 let resizeReset = function () {
     var canvasNode = document.getElementById('canvas');
     w = canvasNode.width = canvasNode.parentNode.clientWidth;
-    h = canvasNode.height = canvasNode.parentNode.clientHeight * 1.25;
+    h = canvasNode.height = 225;
     // w = canvasBody.width =   window.innerWidth ;
     // h = canvasBody.height = window.innerHeight * 0.35;
 }
@@ -9,7 +9,7 @@ let resizeReset = function () {
 const opts = {
     particleColor: "rgb(090,090,090)",
     lineColor: "rgb(090,090,090)",
-    particleAmount: 20,
+    particleAmount: 15,
     defaultSpeed: 0.5,
     variantSpeed: 0.5,
     defaultRadius: 2,
