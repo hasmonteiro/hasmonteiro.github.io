@@ -12,7 +12,9 @@ I perform my activities with commitment and enthusiasm, being always determined 
 
 Currently, I am working with computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, the behavior of concrete and quasi-brittle materials, constitutive modeling and numerical-computational methods in engineering. 
 
-I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work. I am also an enthusiast and a researcher of machine learning and data science! Always learning new things and looking for self-development. Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
+I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work. I am also an enthusiast and a researcher of machine learning and data science.
+
+Always learning new things and looking for self-development! Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
 
 _``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´,_
 {: style="text-align: center;"}
@@ -67,9 +69,9 @@ ________________________________________________________________________________
 
 - [2016]	Direct ascension to the Doctoral degree due to academic merit.
 
-- [2012]	Academic Relevance Award of the School of Engineering (Among the best works in the conference).
+- [2012]	Academic Relevance Award of the School of Engineering (One of the best research works).
 
-- [2011]	Academic Relevance Award of the School of Engineering (Among the best works in the conference).
+- [2011]	Academic Relevance Award of the School of Engineering (One of the best research works).
 
 ______________________________________________________________________________________
 ## Languages
