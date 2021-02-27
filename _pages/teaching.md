@@ -21,7 +21,7 @@ I have experience in teaching the fundamentals of the Finite Element Method to _
 
 ### Snippet
 
-In the following, we have an example of a project-based exercise (MEF_TP) and a slide set with some theoretical notes (MEF_A01) that are representative of my teaching style. In the project exercise, two approaches are required: (a) a formal _by-hand_ calculation, in order to understand the _black-box_ of a typical FEA software and (b) the modeling of the problem in a commercial software to learn how to operate this type of tool and check the results from (a)
+In the following, we have an example of a project-based exercise (MEF_TP) and a slide set with some theoretical notes (MEF_A01) that are representative of my teaching style. In the project exercise, two approaches are required: (a) a formal _by-hand_ calculation, in order to understand the _black-box_ of a typical FEA software and (b) the modeling of the problem in a commercial software to learn how to operate this type of tool and check the results from (a).
 
 _Disclaimer.: The contents are in Portuguese_
 
