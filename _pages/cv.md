@@ -8,7 +8,7 @@ My full cv is registerd below. To download the __.pdf__ document click [[pt-br]]
 ______________________________________________________________________________________
 ## Profile
 
-I perform my activities with commitment and enthusiasm, being always determined and proactive in carrying out the work. With creativity, initiative, and balance, I try to develop my daily tasks and increase the institution's multidisciplinary team. 
+I perform my activities with commitment and enthusiasm, being always determined and proactive. With creativity, initiative, and balance, I try to develop my daily tasks and increase the institution's multidisciplinary team. 
 
 Currently, I am working with computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, the behavior of concrete and quasi-brittle materials, constitutive modeling and numerical-computational methods in engineering. 
 
@@ -52,6 +52,8 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Work Experience
 
+- __Visiting Expert/Scholar__. _Vale - MINE Program_. 2021 -- now: Researcher/ Scholarship holder. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
+
  - __Researcher__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2015 - 2021: Doctoral scholar; CNPq scholarship holder (for a predefined period).	Use of the generalized/extended finite element method (G/XFEM) in two-scale material nonlinear analysis of quasi-brittle and heterogeneous solids. Constitutive modeling, numerical analysis, computational geometry, software engineering, structural engineering, concrete structures, among others.
 
 - __Professor__. _Centro Universitário Newton Paiva (University Center Newton Paiva), BR_. 2019 - 2020: Lecturer in the lato sensu postgraduate certicate/diploma track “Structural Engineering for Construction” (Pós-Graduação em Engenharia de Estruturas para a Construção Civil). Units: Numerical Methods in Engineering - Introduction to the Finite Element Method and Thesis (Supervisor)
@@ -76,17 +78,22 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Languages
 
-English (fluent), Spanish (fluent), French (intermediate) and Portuguese (native).
+English (fluent), Spanish (fluent), French (intermediate), Chinese Mandarin (basic) and Portuguese (native).
 
 ______________________________________________________________________________________
 ## Publications
-
 
 {% capture publications %}{% include publications.md %}{% endcapture %}
 {{ publications | markdownify }}
 
 ______________________________________________________________________________________
 ## Events
+
+- XIV Encontro Acadêmico de Modelagem Computacional - Programa de Verão do Laboratório Nacional de Computação Científica LNCC/MCTI, Petrópolis, RJ, 2021 (Conference).
+
+- Jornada em Ciência de Dados, - Programa de Verão do Laboratório Nacional de Computação Científica LNCC/MCTI, Petrópolis, RJ, 2021 (Seminar).
+
+- Escola Supercomputador Santos Dumont - Programa de Verão do Laboratório Nacional de Computação Científica, LNCC/MCTI, Petrópolis, RJ, 2021. (Seminar)
 
 - Mostra Propees, Belo Horizonte, 2018. (Seminar).
 
