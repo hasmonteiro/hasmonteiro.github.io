@@ -7,6 +7,8 @@
 
 ## Articles
 
+- MONTEIRO, H. A. S. and PITANGUEIRA, R. L. S. Brief Exploratory and Predicitive Analyses of Concrete's Properties Using Standard Statistical Libraries and a Machine Learning Algorithm. MACI - Proceedings of VIII MACI 2021. Volume 8, La Plata - Argentina, p. 387--390. [link](https://asamaci.org.ar/wp-content/uploads/2021/07/MACI-Vol-8-2021.pdf)
+
 -  MONTEIRO, H. A. S.; NOVELLI, L.; FONSECA, G. M.; PITANGUEIRA, R. L. S.; BARROS, F. B. A new approach for physically nonlinear analysis of continuum damage mechanics problems using the generalized/extended finite element method with global-local enrichment. Engineering Analysis with Boundary Elements. v. 113. p. 277--295. Abril 2020. [link](https://doi.org/10.1016/j.enganabound.2019.12.015)
 	
 -  NOVELLI, L.; OLIVEIRA, T. H.; MONTEIRO, H. A. S.; FONSECA, G. M.; PITANGUEIRA, R. L. S.; BARROS, FELÍCIO BRUZZI. Stable Generalized/eXtended Finite Element Method with global-local enrichment for material nonlinear analysis. Computer Methods in Applied Mechanics and Engineering. Volume 372, Dezembro 2020. [link](https://doi.org/10.1016/j.cma.2020.113429)

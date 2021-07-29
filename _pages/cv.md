@@ -10,9 +10,9 @@ ________________________________________________________________________________
 
 I perform my activities with commitment and enthusiasm, being always determined and proactive. With creativity, initiative, and balance, I try to develop my daily tasks and increase the institution's multidisciplinary team. 
 
-Currently, I am working with computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, the behavior of concrete and quasi-brittle materials, constitutive modeling and numerical-computational methods in engineering. 
+Currently, I am working with RD&I in the mining industry. Also, I am a researcher on computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, data-driven modeling/data scence and machine learning.
 
-I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work. I am also an enthusiast and a researcher of machine learning and data science.
+I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work.
 
 Always learning new things and looking for self-development! Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
 
@@ -28,8 +28,8 @@ so we're are here in this planet to grow and improve, to go beyond boundaries!
 
 |:-----:|:-----:|
 | &#9733;&#9733;&#9733; __Advanced__ | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` |
-| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape`|
-| &#9733; <br> __Basic__ | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Scrum` `Business`|
+| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape` `Scrum/Agile`|
+| &#9733; <br> __Basic__ | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Business`|
 
 #### SOFT SKILLS
 {: style="text-align: center;"}
@@ -52,7 +52,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Work Experience
 
-- __Visiting Expert/Scholar__. _Vale - MINE Program_. 2021 -- now: Researcher/ Scholarship holder. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
+- __Visiting Expert__. _Vale - MINE Program_. 2021 -- now: Researcher. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
+
+- __Visiting Expert__. _SENAI CIMATEC_. 2021 -- now: Researcher. RD&I in the mining industry. Product development and process improvement.
 
  - __Researcher__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2015 - 2021: Doctoral scholar; CNPq scholarship holder (for a predefined period).	Use of the generalized/extended finite element method (G/XFEM) in two-scale material nonlinear analysis of quasi-brittle and heterogeneous solids. Constitutive modeling, numerical analysis, computational geometry, software engineering, structural engineering, concrete structures, among others.
 
@@ -129,7 +131,57 @@ Thainá Aparecida Gandra da Silva Campos. Sem Título (No Title). 2019. Structur
 ______________________________________________________________________________________
 ## Complementary education
 
-_The names will not be translated_
+_The names will not be translated; chronological order_
+
+- Leadership in Innovation &#183; Massachusetts Institute of Technology (MIT) &#183; 07/2021 
+
+- Special Topics (Energy, Soil Mechanics, Innovation) &#183; Massachusetts Institute of Technology (MIT) &#183; 07/2021
+
+- Propriedade Intelectual &#183; SENAI CIMATEC &#183; 07/2021
+
+- Sustentability in Supply Chain and Circular Economy &#183; Massachusetts Institute of Technology (MIT) &#183; 06/2021
+
+- Conceitos e Desafios da 4a Revolução Industrial &#183; SENAI CIMATEC &#183; 06/2021
+
+- IA, Big Data e seus Impactos na Indústria &#183; SENAI CIMATEC &#183; 06/2021
+
+- Manufatura Aditiva &#183; SENAI CIMATEC &#183; 06/2021
+
+- Mining of the Future - ESG Approach &#183; SENAI CIMATEC &#183; 06/2021
+
+- Realidade Estendida e Indústria 4.0 &#183; SENAI CIMATEC &#183; 06/2021
+
+- Como identificar estudos atuais e correlatos e revisar sistematicamente a literatura? &#183; SENAI CIMATEC &#183; 06/2021
+
+- Sustentability: Strategies and Opportunities for the Industry &#183; Massachusetts Institute of Technology (MIT) &#183; 05/2021
+
+- Climate Change: Greenhouse Gases and Carbon Credit &#183; Massachusetts Institute of Technology (MIT) &#183; 05/2021
+
+- TRL e DIPT &#183; SENAI CIMATEC &#183; 05/2021
+
+- Análise financeira de retorno dos projetos de PD&I &#183; SENAI CIMATEC &#183; 05/2021
+
+- Ideation Workshop &#183; The Bakery &#183; 05/2021 
+
+- Intro to Product Market Fit &#183; The Bakery &#183; 05/2021 
+
+- SDG and Health (in Mining) &#183; Imperial College &#183; 04/2021 
+
+- Environmental Aspects (in Mining) &#183; Imperial College  &#183; 04/2021
+
+- Extractive Metallurgy &#183; Imperial College &#183; 04/2021 
+
+- Minerals Processing &#183; Imperial College &#183; 04/2021 
+
+- Mining and Ore Bodies &#183; Imperial College &#183; 04/2021  
+
+- Design Thinking &#183; The Bakery &#183; 04/2021 
+
+- Agile Methodologies &#183; The Bakery &#183; 04/2021 
+
+- Business Model Generation &#183; The Bakery &#183; 04/2021 
+
+- Entrepreneurship &#183;The Bakery &#183; 04/2021 
 
 - Algoritmos e Modelos de Programação para Big Data &#183; Laboratório Nacional de Computação Científica (LNCC) &#183; 02/2021
 
