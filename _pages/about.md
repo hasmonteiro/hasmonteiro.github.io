@@ -5,7 +5,7 @@ permalink: /about
 
 ![](/assets/images/perfil.png){:height="128px" width="128px" style="float: left; margin-right: 1em;"} I hold a bachelor’s degree in civil engineering and a Ph.D. in structural engineering, but I rather say that I’m just an _engineer_, someone who uses _ingenuity_ to find answers and like to dive into all sorts of knowledge.
 
-I have a strong background in numerical/computational simulation, programming, and applied mathematics, which helps me to attack a broad range of problems and develop innovative solutions. Also, I am a researcher of numerical analysis/methods, computational mechanics, machine learning and data-driven modeling.
+I have a strong background in numerical/computational simulation, programming, and applied mathematics, which helps me to attack a broad range of problems and develop innovative solutions! Also, I am a researcher of numerical analysis/methods, computational mechanics, machine learning and data-driven modeling.
 
 I have experience in the research field (empirical/experimental and numerical testing), innovation in the industry, hydrological/environmental studies (rainfall, flow-rate, and temporal series), structural analysis (fem-like formulations, mechanics of materials, continuum mechanics, concrete), statistics/data analysis (databases, data munging, exploratory analysis, feature engineering, predictive research), and education as well.
 
