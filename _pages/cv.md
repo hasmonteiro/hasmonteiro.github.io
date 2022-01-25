@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 I perform my activities with commitment and enthusiasm, being always determined and proactive. With creativity, initiative, and balance, I try to develop my daily tasks and increase the institution's multidisciplinary team. 
 
-Currently, I am working with modeling and simulation, analytics and BI. Previously enroled with RD&I in the mining industry. Also, I am a researcher on computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, data-driven modeling/data scence and machine learning.
+Currently, I am working with modeling and simulation, analytics and BI. Previously enroled with RD&I in the mining industry. Also, I am a researcher on computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, data-driven modeling/data science and machine learning.
 
 I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work.
 
