@@ -16,7 +16,7 @@ I have a strong background in elasticity theory, finite element formulations, ge
 
 Always learning new things and looking for self-development! 
 
-[//]: # (Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): )
+[//]: # (Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated))
 
 _``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´ (Y. Zamyatin),_
 {: style="text-align: center;"}
