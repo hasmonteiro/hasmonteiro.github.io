@@ -10,16 +10,17 @@ ________________________________________________________________________________
 
 I perform my activities with commitment and enthusiasm, being always determined and proactive. With creativity, initiative, and balance, I try to develop my daily tasks and increase the institution's multidisciplinary team. 
 
-Currently, I am working with RD&I in the mining industry. Also, I am a researcher on computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, data-driven modeling/data scence and machine learning.
+Currently, I am working with modeling and simulation, analytics and BI. Previously enroled with RD&I in the mining industry. Also, I am a researcher on computational mechanics and engineering, with emphasis on numerical analysis, solid mechanics, nonlinearities, data-driven modeling/data scence and machine learning.
 
 I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work.
 
-Always learning new things and looking for self-development! Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): 
+Always learning new things and looking for self-development! 
+[//]: # (Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): )
 
-_``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´,_
+_``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´ (Y. Zamyatin),_
 {: style="text-align: center;"}
 
-so we're are here in this planet to grow and improve, to go beyond boundaries!
+[//]: # (so we're are here in this planet to grow and improve, to go beyond boundaries!)
 
 ### Some skills
 
