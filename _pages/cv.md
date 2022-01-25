@@ -16,9 +16,9 @@ I have a strong background in elasticity theory, finite element formulations, ge
 
 Always learning new things and looking for self-development! 
 
-[//]: # (Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated))
+<!-- (Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated)) -->
 
-_``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´ (Y. Zamyatin),_
+_``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´ (Y. Zamyatin)._
 {: style="text-align: center;"}
 
 [//]: # (so we're are here in this planet to grow and improve, to go beyond boundaries!)
@@ -128,18 +128,26 @@ ________________________________________________________________________________
 {{ eval_boards | markdownify }}
 
 <!-- ______________________________________________________________________________________
-## Supervision
+## Supervision -->
 
-Camila Aparecida Santana. Sem Título (No Title). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro.
+[//]: # (Camila Aparecida Santana. Sem Título (No Title). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro.)
 
-Aline Maia Januário de Lima. Patologias em Estruturas de Concreto Armado: Pilares (Pathologies in reinforced concrete structures: Columns). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro.
+[//]: # (Aline Maia Januário de Lima. Patologias em Estruturas de Concreto Armado: Pilares (Pathologies in reinforced concrete structures: Columns). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro.)
 
-Thainá Aparecida Gandra da Silva Campos. Sem Título (No Title). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro. -->
+[//]: # (Thainá Aparecida Gandra da Silva Campos. Sem Título (No Title). 2019. Structural Engineering for Construction. Centro Universitário Newton Paiva. Supervisor: Humberto Alves da Silveira Monteiro. -->)
 
 ______________________________________________________________________________________
 ## Complementary education
 
 _The names will not be translated; chronological order_
+
+- Inovação em Engenharia &#183; Instituto ESSS &#183; 11/2021
+
+- Bootcamp Engenharia de Dados &#183; IGTI &#183; 10/2021
+
+- Programa de Imersão Internacional Agile World &#183; IGTI &#183; 10/2021
+
+- Curso Básico de Modelagem Geométrica utilizando o Ansys SpaceClaim &#183; Instituto ESSS &#183; 08/2021
 
 - Leadership in Innovation &#183; Massachusetts Institute of Technology (MIT) &#183; 07/2021 
 
