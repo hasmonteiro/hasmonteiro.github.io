@@ -52,13 +52,19 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Work Experience
 
+- __Modeling and Simulation Analyst__. _Paragon Decision Science_. 2022 -- now: Modeling and simulation of industrial systems and processes. Works in operations research, analytics and BI. Implementation of numerical models (such as discrete event based models) for for strategical management and decision making of big companies.
+
+- __Professor__. _IGTI_. 2021 -- now: Lecturer in the Deep Learning Engineering course. Subject: Frameworks for Neural Networks.
+
+- __Member of Research Ethics Committee__. 2021 -- now: Member of the 
+
 - __Visiting Expert__. _Vale - MINE Program_. 2021 -- now: Researcher. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
 
 - __Visiting Expert__. _SENAI CIMATEC_. 2021 -- now: Researcher. RD&I in the mining industry. Product development and process improvement.
 
  - __Researcher__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2015 - 2021: Doctoral scholar; CNPq scholarship holder (for a predefined period).	Use of the generalized/extended finite element method (G/XFEM) in two-scale material nonlinear analysis of quasi-brittle and heterogeneous solids. Constitutive modeling, numerical analysis, computational geometry, software engineering, structural engineering, concrete structures, among others.
 
-- __Professor__. _Centro Universitário Newton Paiva (University Center Newton Paiva), BR_. 2019 - 2020: Lecturer in the lato sensu postgraduate certicate/diploma track “Structural Engineering for Construction” (Pós-Graduação em Engenharia de Estruturas para a Construção Civil). Units: Numerical Methods in Engineering - Introduction to the Finite Element Method and Thesis (Supervisor)
+- __Professor__. _Centro Universitário Newton Paiva (University Center Newton Paiva), BR_. 2019 - 2020: Lecturer in the lato sensu postgraduate certicate/diploma track “Structural Engineering for Construction” (Pós-Graduação em Engenharia de Estruturas para a Construção Civil). Subjects: Numerical Methods in Engineering - Introduction to the Finite Element Method and Thesis (Supervisor)
 
 - __Civil Engineer and Engineering Intern__. _Tractebel Engineering - Leme Engenharia, BR_: Implementation of environmental programs (hydrological, hydrosedimentological and climatological monitoring) of hydroelectric projects. Technical follow-up, rainfall studies, flow-rate curve analysis, time-series assessments, data-base management, data wrangling, primary data analysis, among others.
 

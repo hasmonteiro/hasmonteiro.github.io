@@ -16,8 +16,8 @@ links:
     url: /projects
   - name: /teaching
     url: /teaching	
-  - name: /posts
-    url: /posts	
+  # - name: /posts
+  #  url: /posts	
   - name: /cv
     url: /cv
   - name: /contact

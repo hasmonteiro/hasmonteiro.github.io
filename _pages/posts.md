@@ -5,9 +5,7 @@ permalink: /posts
 
 _Under construction_
 
-Here I'll be posting some of my ideas, tutorials, and short theoretical remarks about what I'm enrolled with at the moment.
-
-Since this page is brand new, there's nothing yet. But it will be full!
+[//]: # (Here I'll be posting some of my ideas, tutorials, and short theoretical remarks about what I'm enrolled with at the moment. Since this page is brand new, there's nothing yet. But it will be full!)
 
 
 <!-- <ul class="list pa0">

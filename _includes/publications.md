@@ -1,7 +1,7 @@
 
 ## Thesis
 
-- MONTEIRO, H. A. S. Uma nova aborgadem para análise estática em duas escalas: métodos dos elementos finitos generalizados/estendidos, estratégia global-local e modelos de degração elástica no estudo de meios não lineares, parcialmente frágeis e heterogêneos.  Tese (Doutorado em Engenharia de Estruturas) -- Escola de Engenharia, Universidade Federal de Minas Gerais, p. 423. 2021. (_embargo period; access restricted_)
+- MONTEIRO, H. A. S. Uma nova aborgadem para análise estática em duas escalas: métodos dos elementos finitos generalizados/estendidos, estratégia global-local e modelos de degração elástica no estudo de meios não lineares, parcialmente frágeis e heterogêneos.  Tese (Doutorado em Engenharia de Estruturas) -- Escola de Engenharia, Universidade Federal de Minas Gerais, p. 423. 2021. 
 
     _(en title: A new approach for two-scale static analysis: generalized/extended finite element method, global-local strategy and elastic-degrading models in the study of heterogeneous quasi-brittle nonlinear media)_
 
