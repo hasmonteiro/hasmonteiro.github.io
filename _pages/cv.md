@@ -15,6 +15,7 @@ Currently, I am working with modeling and simulation, analytics and BI. Previous
 I have a strong background in elasticity theory, finite element formulations, general math, programming and modeling tools, good communication, command of writing with a strict technical standard, and a resilient approach to work.
 
 Always learning new things and looking for self-development! 
+
 [//]: # (Like Yevgeny Zamyatin once said in his novel "We" (here loosely translated): )
 
 _``... the superior work of the human being is that of reason, which could be summarized in the limitation of infinity, in the partitioning of infinity into convenient, easy and digestible portions, in differentials´´ (Y. Zamyatin),_
