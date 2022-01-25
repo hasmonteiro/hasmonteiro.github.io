@@ -5,15 +5,16 @@ permalink: /research
 
 ## Today and hereafter...
 
-As I came from civil/structural engineering, my scientific production and my background are pervaded by numerical analysis and applied math/physics. Nevertheless, today I’m moving towards __Innovation, Machine Learning (ML), Data-Driven Modelling (DDM), Data Science (DS) & Dev__. 
+As I came from civil/structural engineering, my scientific production and my background are pervaded by numerical analysis and applied math/physics. Nevertheless, my main field is modeling and simulation. Today I’m moving towards __Innovation, Machine Learning (ML), Data-Driven Modelling (DDM), Data/Decision Science (DS)__. 
 
 <!-- I realized that computer science (CS) and DS are much more innovative, inventive, challenging, and fulfilling, a place where the novelty lies and where I can apply my ingenuity and analytical skills, hands-on. So I’ve been not only studying CS and DS but also – regarding my formal education – researching ways to bring DS, DDM, and ML into (civil) engineering, especially to the research of complex structures and materials. -->
 
 Hence, my main research subjects today are:
 
+- Modeling and Simulation of Systems
 - Machine Learning + Data-Driven Modelling
-- (Generalized/Extended) Finite Element Method
-- Innovation (in the Mining Industry now)
+- (Generalized/Extended) Finite Element Methodologies
+- Innovation
 
 ______________________________________________________________________________________
 ## My official and historical info

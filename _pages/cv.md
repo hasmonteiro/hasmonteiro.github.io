@@ -28,7 +28,7 @@ so we're are here in this planet to grow and improve, to go beyond boundaries!
 
 |:-----:|:-----:|
 | &#9733;&#9733;&#9733; __Advanced__ | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` |
-| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape` `Scrum/Agile`|
+| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Excel` `Statistics` `SAP2000` `CAD` `Inkscape` `Scrum/Agile` `Rocky` `Arena` |
 | &#9733; <br> __Basic__ | `C/C++` `Tableau` `Containers` `HTML` `CSS` `SQL` `ANSYS` `Abaqus` `Azure & Cloud Computing` `Business`|
 
 #### SOFT SKILLS
@@ -52,17 +52,17 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Work Experience
 
-- __Modeling and Simulation Analyst__. _Paragon Decision Science_. 2022 -- now: Modeling and simulation of industrial systems and processes. Works in operations research, analytics and BI. Implementation of numerical models (such as discrete event based models) for for strategical management and decision making of big companies.
+- __Modeling and Simulation Analyst__. _Paragon Decision Science_. 2022 -- now: Modeling and simulation of industrial systems and processes. Operations research, analytics and BI. Implementation of numerical models (such as discrete event based models) for strategical management and decision making of big companies.
 
-- __Professor__. _IGTI_. 2021 -- now: Lecturer in the Deep Learning Engineering course. Subject: Frameworks for Neural Networks.
+- __Professor__. _IGTI_. 2021 -- now: Lecturer in the Deep Learning Engineering course. Subject: Frameworks for Neural Networks. 
 
-- __Member of Research Ethics Committee__. 2021 -- now: Member of the 
+- __Member of Research Ethics Committee__. _Faculdade Ciências Médicas de Minas Gerais (CEP-FCMMG)_. 2021 -- now: Member of a interdisciplinary and independent collegiate body, of public relevance, consultative, deliberative and educational character, created to defend the interests of research participants in their integrity and dignity and to contribute to the development of research within ethical standards, linked to Resolution CNS 466/12 and constituted under its terms.
 
 - __Visiting Expert__. _Vale - MINE Program_. 2021 -- now: Researcher. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
 
 - __Visiting Expert__. _SENAI CIMATEC_. 2021 -- now: Researcher. RD&I in the mining industry. Product development and process improvement.
 
- - __Researcher__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2015 - 2021: Doctoral scholar; CNPq scholarship holder (for a predefined period).	Use of the generalized/extended finite element method (G/XFEM) in two-scale material nonlinear analysis of quasi-brittle and heterogeneous solids. Constitutive modeling, numerical analysis, computational geometry, software engineering, structural engineering, concrete structures, among others.
+ - __Researcher__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2015 - 2021: Doctoral scholar; CNPq scholarship holder (for a predefined period). Use of the generalized/extended finite element method (G/XFEM) in two-scale material nonlinear analysis of quasi-brittle and heterogeneous solids. Constitutive modeling, numerical analysis, computational geometry, software engineering, structural engineering, concrete structures, among others.
 
 - __Professor__. _Centro Universitário Newton Paiva (University Center Newton Paiva), BR_. 2019 - 2020: Lecturer in the lato sensu postgraduate certicate/diploma track “Structural Engineering for Construction” (Pós-Graduação em Engenharia de Estruturas para a Construção Civil). Subjects: Numerical Methods in Engineering - Introduction to the Finite Element Method and Thesis (Supervisor)
 
