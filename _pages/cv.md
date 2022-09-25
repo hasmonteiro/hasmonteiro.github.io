@@ -29,15 +29,15 @@ _``... the superior work of the human being is that of reason, which could be su
 {: style="text-align: center;"}
 
 |:-----:|:-----:|
-| &#9733;&#9733;&#9733; __Advanced__ | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` `ANSYS` `Scrum/Kanban/Agile` `Excel` `VBA` `ML`|
-| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Statistics` `SAP2000` `CAD` `Inkscape` `Rocky` `Arena` `Abaqus`|
-| &#9733; <br> __Basic__ | `C/C++/C#` `Containers` `HTML` `CSS` `SQL` `Simio` `Azure & Cloud Computing` `HPC`|
+| &#9733;&#9733;&#9733; __Advanced__ | `Java` `R` `Matlab` `Technical Writing` `Data Viz` `Dashboards` `Storytelling` `Math Modeling` `Data Analysis` `FEA` `ANSYS` `Scrum/Kanban/Agile` `Excel` `VBA` `ML` `Arena` `Risk`|
+| &#9733;&#9733; __Intermediate__ | `Python` `Power BI` `NLP` `ANN/DL` `Linux/Shell` `Git` `Statistics` `SAP2000` `CAD` `Inkscape` `Rocky` `Simio` `Abaqus`|
+| &#9733; <br> __Basic__ | `C/C++/C#` `Containers` `HTML` `CSS` `SQL` `Azure & Cloud Computing` `HPC`|
 
 #### SOFT SKILLS
 {: style="text-align: center;"}
 
 |:-----:|
-| `Problem Solving`  `Analytical Thinking` `Resilience` `Responsability` `Critical Thinking` `Attention to Detail`  |
+| `Problem Solving` `Analytical Thinking` `Resilience` `Responsability` `Critical Thinking` `Attention to Detail`  |
 
 ______________________________________________________________________________________
 ## Objectives
@@ -54,15 +54,17 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Work Experience
 
-- __Operations Analyst / Modeling and Simulation__. _Paragon Decision Science_. 2022 -- now: Modeling and simulation of industrial systems and processes. Operations research, analytics and BI. Implementation of numerical models (such as discrete event based models) for strategical management and decision making of big companies.
+- __Specialist III - Robotics__. _SENAI CIMATEC_. 2022 -- now: RD&I and Product developement. Development of robotics systems, with emphasis on the Oil & Gas and Maritme sectors; technology qualification and reliability.
+
+- __Operations Analyst - Modeling and Simulation__. _Paragon Decision Science_. 2022 -- 2022: Modeling and simulation of industrial systems and processes. Operations research, analytics and BI. Implementation of numerical models (such as discrete event based models) for strategical management and decision making of big companies.
 
 - __Professor__. _IGTI_. 2021 -- now: Lecturer in the MBA and certification course on Deep Learning. Subject: Frameworks for Neural Networks. 
 
 - __Member of Research Ethics Committee__. _Faculdade Ciências Médicas de Minas Gerais (CEP-FCMMG)_. 2021 -- now: Member of a interdisciplinary and independent collegiate body, of public relevance, consultative, deliberative and educational character, created to defend the interests of research participants in their integrity and dignity and to contribute to the development of research within ethical standards, linked to Resolution CNS 466/12 and constituted under its terms.
 
-- __Visiting Expert__. _Vale - MINE Program_. 2021 -- 2021: Researcher. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
+- __Visiting Specialist__. _Vale - MINE Program_. 2021 -- 2021: Researcher. The Mining Innovation for a New Environment (MINE) is an open innovation program implemented by Vale aiming to build the future of mining. I'm a part of a multi-professional external team of experts with different backgrounds working to build innovative solutions for the mining industry. The program also features the [_MIT Professional Education_](https://professional.mit.edu/), the [_MIT Environmental Solutions Initiative_](https://environmentalsolutions.mit.edu/), the integrated technology center [_SENAI CIMATEC_](http://www.senaicimatec.com.br/) and the corporative innovation consultant enterprise [_The Bakery_](https://thebakery.com/).
 
-- __Visiting Expert__. _SENAI CIMATEC_. 2021 -- 2022: Researcher. RD&I in the mining industry. Product development and process improvement.
+- __Visiting Specialist__. _SENAI CIMATEC_. 2021 -- 2022: Researcher. RD&I in the mining industry. Product development and process improvement.
 
  - __Researcher__. _Universidade Federal de Minas Gerais - UFMG (Federal University of Minas Gerais), BR_. 2015 - 2021: Doctoral scholar; CNPq scholarship holder (for a predefined period). Use of the generalized/extended finite element method (G/XFEM) in two-scale material nonlinear analysis of quasi-brittle and heterogeneous solids. Constitutive modeling, numerical analysis, computational geometry, software engineering, structural engineering, concrete structures, among others.
 
@@ -140,6 +142,24 @@ ________________________________________________________________________________
 ## Complementary education
 
 _The names will not be translated; chronological order_
+
+- An Introduction to Reliability Engineering &#183; Udemy &#183; 09/2022
+
+- FMEA -- Análise de Modo e Efeitos de Falhas Potenciais &#183; Udemu &#183; 09/2022
+
+- Engenharia de Modelagem e Simulação com Arena &#183; Paragon &#183; 06/2022
+
+- Técnicas Avançadas de Simulação com Simio &#183; Paragon &#183; 06/2022
+
+- Fundamentos de Simulação com Simio &#183; Paragon &#183; 05/2022
+
+- Técnicas Avançadas de Simulação com Arena &#183; Paragon &#183; 05/2022
+
+- Técnicas de Simualação Nível Intermediário II com Arena &#183; Paragon &#183; 04/2022
+
+- Técnicas de Simualação Nível Intermediário I com Arena &#183; Paragon &#183; 03/2022
+
+- Fundamentos de Simulação com Arena &#183; Paragon &#183; 02/2022
 
 - Inovação em Engenharia &#183; Instituto ESSS &#183; 11/2021
 
