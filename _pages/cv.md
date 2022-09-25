@@ -155,9 +155,9 @@ _The names will not be translated; chronological order_
 
 - Técnicas Avançadas de Simulação com Arena &#183; Paragon &#183; 05/2022
 
-- Técnicas de Simualação Nível Intermediário II com Arena &#183; Paragon &#183; 04/2022
+- Técnicas de Simulação Nível Intermediário II com Arena &#183; Paragon &#183; 04/2022
 
-- Técnicas de Simualação Nível Intermediário I com Arena &#183; Paragon &#183; 03/2022
+- Técnicas de Simulação Nível Intermediário I com Arena &#183; Paragon &#183; 03/2022
 
 - Fundamentos de Simulação com Arena &#183; Paragon &#183; 02/2022
 
