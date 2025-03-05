@@ -54,7 +54,11 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## Work Experience
 
-- __Specialist III - Robotics__. _SENAI CIMATEC_. 2022 -- now: RD&I and Product developement. Development of robotics systems, with emphasis on the Oil & Gas and Maritme sectors; technology qualification and reliability.
+- __Tech Lead - CIT SENAI__. 2024 -- now: RD&I and Product developement. Development of new products and process for industry, with emphasis on the steelmaking, mining and logistics; technology qualification and additive manufacturing
+
+- __Consultant - ACCENTURE__. 2023 -- 2024: Strategy, Consulting, Analytics. Consultancy and advisory on modeling, simulation, data, AI and supply chain.
+
+- __Specialist III - Robotics__. _SENAI CIMATEC_. 2022 -- 2023: RD&I and Product developement. Development of robotics systems, with emphasis on the Oil & Gas and Maritme sectors; technology qualification and reliability.
 
 - __Operations Analyst - Modeling and Simulation__. _Paragon Decision Science_. 2022 -- 2022: Modeling and simulation of industrial systems and processes. Operations research, analytics and BI. Implementation of numerical models (such as discrete event based models) for strategical management and decision making of big companies.
 
